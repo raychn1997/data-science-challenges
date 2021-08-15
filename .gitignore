@@ -1,0 +1,4 @@
+# Project exclude paths
+/venv/
+**/__pycache__/
+read_data.py
