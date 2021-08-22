@@ -12,10 +12,4 @@ My solutions to the Data Science Challenges by Giulio Palombo at https://datamas
 
 ## Challenge Catalogue
 ### Insights: Workplace Diversity Analysis
-[URL to the notebook](https://github.com/raychn1997/data-science-challenges/blob/test/Insights:%20Workplace%20Diversity%20Analysis/solution.ipynb)
-
 A project that analyzes the fairness of the salary across different genders, departments and experience level.
-![graph](images/diversity_1.png)
-![graph](images/diversity_2.png)
-
-Tags: People Analytics, Actionable Diversity & Inclusion Analytics
