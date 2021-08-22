@@ -6,9 +6,9 @@ My solutions to the Data Science Challenges by Giulio Palombo at https://datamas
 
 ## Skills Covered
 - Data Wrangling(Pandas)
-- Data Visualization(Seaborn and Matplotlib)
+- Data Visualization(Seaborn, Matplotlib, etc)
 - Machine Learning(Sklearn, RandomForest, etc)
-- Insight Extraction(PDP Plot)
+- Insight Extraction(Feature Importance, PDP Plot)
 
 ## Challenge Catalogue
 ### Insights: Workplace Diversity Analysis
